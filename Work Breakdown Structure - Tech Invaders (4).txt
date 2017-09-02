@@ -1,0 +1,41 @@
+
+Work Breakdown Structure – Tech Invaders (4)
+
+1. ANALYSIS
+• Gathering information at the MBP. (What are the problems they are actually facing?) & get to know how the current system works and propose how the current system can be improved,
+• Man force.
+
+
+2. DESIGN
+• Using photo editing software to design the new system’s bin, which will track all information required.
+o How will it look like?
+o What colour will it be?
+o Capacity.
+o Safeplacetohidetheelectronics.
+
+4. DOCUMENTATION
+• Design circuits using sensors and Raspberry Pi to monitor each bin.
+
+3. TRAINING
+• At most a 5 day – 2 hours training will be sufficient to understand this system and know how to manage it.
+
+5. TESTING
+• Technical Documentation
+o If ever the employees face any kind of
+hardware or software related problem, they
+can consult the tech doc. • User Documentation
+o If ever the employees have forgotten how to use certain features of the system, they can consult the user doc.
+
+6. MAINTENANCE
+• Can release beta version of the circuit and software. • Maintenance will be done at MBP itself whenever needed.
+
+7. EVALUATION
+• Speed (current system v/s proposed system),
+• Reliability (current system v/s proposed system), • Ease of use,
+• Accuracy,
+• Capacity,
+• Attractiveness.
+
+8. PRESENTATION
+• Venue
+• Audience

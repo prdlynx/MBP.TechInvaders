@@ -1,0 +1,21 @@
+Breakdown Structure for Analysis
+
+A. Information Gathering & Current Problems (Site Visit)
+	1.Make/Ask for a plan of the work site.
+	2.Take pictures of the bins in which the fish is stored
+	3.Visit the weighing scale + take pictures 
+	4.Trace path followed by the bins from the very start when they enter the factory to when they leave.
+	5.Ask about the temperatures that have to be maintained in those bins.
+	6.Study the system and determine where errors in the weights of the bins are occuring
+	7.Ask the professionals working there, what, in their opinion would be their main problem
+	8.Ask for a copy of their annual report i.e profits/losses for the last 10 years they have been using the system for.
+
+B. Employees
+	1.The different types of employees and the jobs they carry out.
+	2.The current problems the employees handling the fish bins are facing while weighing them.
+	3.The way the employees keep track of the differnet bins.
+	4.Meet with the IT team working there.
+	5.Inspect their current computer system.
+	6.Document information about the latter.
+	7.Ask employees handling the fish bins how the product they are working with is being wasted in the current system.
+	8.Ask the employee/ boss in charge what he thinks would be needed and how much the company is ready to invest in the project.
